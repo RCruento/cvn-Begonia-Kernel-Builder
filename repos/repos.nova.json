@@ -5,8 +5,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Nova-Non-Patches",
-      "repo": "https://github.com/Nova-Kernels/kernel_xiaomi_mt6785",
-      "branch": "fifteen-fixed"
+      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "branch": "fifteen"
     },
     "withRoot": "none",
     "withSUSFS": false,
@@ -56,8 +56,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Nova-KernelSU-SUSFS",
-      "repo": "https://github.com/Nova-Kernels/kernel_xiaomi_mt6785",
-      "branch": "fifteen-fixed"
+      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "branch": "fifteen"
     },
     "withRoot": "ksu",
     "withSUSFS": true,
@@ -107,8 +107,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Nova-KSU-Next-SUSFS",
-      "repo": "https://github.com/Nova-Kernels/kernel_xiaomi_mt6785",
-      "branch": "fifteen-fixed"
+      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "branch": "fifteen"
     },
     "withRoot": "ksun",
     "withSUSFS": true,
@@ -158,8 +158,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Nova-SukiSU-KPM-SUSFS",
-      "repo": "https://github.com/Nova-Kernels/kernel_xiaomi_mt6785",
-      "branch": "fifteen-fixed"
+      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "branch": "fifteen"
     },
     "withRoot": "sukisu",
     "withSUSFS": true,
